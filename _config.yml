@@ -70,7 +70,7 @@ content:
         quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          • Developed a deep learning model using Python to detect and localize facial key-points such as eyes, nose, mouth, and jawline
+          • Developed a deep learning model using Python to detect and localize facial key-points such as eyes, nose, mouth, and jawline |
           • Utilized neural networks, specifically convolutional neural networks (CNNs) to train the model on a large dataset of images of faces
           • Implemented data preprocessing and data augmentation techniques to improve model performance
           • Utilized libraries such as TensorFlow and Keras to implement the neural network
