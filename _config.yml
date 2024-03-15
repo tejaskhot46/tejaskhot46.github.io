@@ -7,12 +7,12 @@ version: 2
 
 # Personal info
 name: TEJAS KHOT
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+title: Data Scientist
+email: tejaskhot4u@gmail.com
+website: https://tejaskhot46.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
