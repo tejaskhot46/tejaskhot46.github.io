@@ -68,7 +68,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          
         description:  # this will include new lines to allow paragraphs
           • Developed a deep learning model using Python to detect and localize facial key-points such as eyes, nose, mouth, and jawline 
           • Utilized neural networks, specifically convolutional neural networks (CNNs) to train the model on a large dataset of images of faces
@@ -94,7 +94,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          
         description: | # this will include new lines to allow paragraphs
           • Utilized natural language processing techniques in Python to analyze and classify the sentiment of Amazon product reviews
           • Implemented machine learning algorithms such as logistic regression, Naive Bayes, and Random Forest to train a model for sentiment analysis
