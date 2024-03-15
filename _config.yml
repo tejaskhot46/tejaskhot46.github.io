@@ -69,7 +69,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           #This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
+        description:  # this will include new lines to allow paragraphs
           • Developed a deep learning model using Python to detect and localize facial key-points such as eyes, nose, mouth, and jawline |
           • Utilized neural networks, specifically convolutional neural networks (CNNs) to train the model on a large dataset of images of faces
           • Implemented data preprocessing and data augmentation techniques to improve model performance
@@ -83,8 +83,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: awesome project
-        link: github.com/sproogen
+        title: Amazon Review Sentiment Analysis
+        link: github.com/tejaskhot46
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -96,7 +96,13 @@ content:
         quote: >
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          • Utilized natural language processing techniques in Python to analyze and classify the sentiment of Amazon product reviews
+          • Implemented machine learning algorithms such as logistic regression, Naive Bayes, and Random Forest to train a model for sentiment analysis
+          • Conducted extensive data preprocessing and cleaning, including removing stop words, stemming, and lemmatization
+          • Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score
+          • Built a web app using Flask to showcase the sentiment analysis model, allowing users to input their own reviews and see the predicted sentiment
+          • Utilized libraries such as NLTK, scikit-learn, pandas, and numpy to develop the project
+          • Improved the model performance by fine-tuning the Hyperparameters using GridSearchCV and RandomizedSearchCV
 
 
   - title: Experience # Title for the section
