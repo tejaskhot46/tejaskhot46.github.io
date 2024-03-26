@@ -125,29 +125,41 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: The Research Foundation for SUNY
+        link: 
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Research Assistant (Machine Learning)
+        caption: May 2022 - December 2022
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and
+            • Developed a pipeline to find the N largest pores in stack images of porous materials using Python and Matlab
+            • Utilized image processing techniques such as thresholding, morphological operations, and connected component analysis to identify and extract pores from the images
+            • Implemented algorithms to calculate the size and shape of the pores
+            • Utilized libraries such as OpenCV, scikit-image, and Matlab Image Processing Toolbox
+            • Developed scripts to convert stack images to voxel data for porosity distribution analysis
+            • Utilized libraries such as scipy and numpy for data manipulation
+            • Conducted porosity distribution analysis using voxel data to understand the pore size and shape distribution in the materials
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Verzeo 
+        link: 
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Data Scientist
+        caption: May 2020 - July 2020
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and
+            • Analyzed large datasets of cricket game statistics using Python and R
+            • Utilized data visualization techniques such as matplotlib, ggplot and seaborn to explore and gain insights from the data
+            • Implemented machine learning algorithms such as linear regression, decision trees, and Random Forest to predict match outcomes and player performance
+            • Utilized libraries such as pandas, numpy, and scikit-learn to perform data analysis and modeling tasks
+            • Developed web scraping scripts to gather data from different websites
+            • Conducted statistical analysis to identify patterns and trends in the data
+            • Built user-friendly dashboards using libraries such as Plotly and Shiny to present the analysis results
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
