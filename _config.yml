@@ -115,11 +115,53 @@ content:
         sub_title: Data Scientist (Research Aid)
         caption: March 2023 - October 2023
         quote: >
-          #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          
         description: | # this will include new lines to allow paragraphs
             •Conducted comprehensive preprocessing and in-depth analysis of customer data, adeptly extracting pertinent features and deriving valuable insights into churn patterns.
             •Utilized machine learning algorithms (logistic regression, random forests) to develop models and delivered a notable 83% accuracy in customer churn prediction, resulting in the successful implementation of targeted retention strategies, bolstering organizational performance.
             •Collaborated with cross-functional teams to gather and integrate data from various sources, ensuring data quality and consistency for analysis.
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
